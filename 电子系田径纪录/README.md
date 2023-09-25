@@ -1,1 +1,1 @@
-原始文件在excel中，更新时请同时更改excel和pdf文件
+原始文件在excel中，更新时请同时更改excel,word和pdf文件
